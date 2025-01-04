@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Denis
 
-<!--
-**DenisGit6/DenisGit6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Welcome Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile)
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 Currently transitioning to embedded software development.
+- 👨‍💻 Check out my projects below.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DenisGit6&show_icons=true)
+
+## 🛠️ Skills
+- Embedded Systems, C, Python, Linux
+- Arduino, IoT, Real-Time Systems
+
+## 📂 Projects
+| Project Name | Description |
+|--------------|-------------|
+| [Project 1](#) | A cool project description here. |
+
+## 🎨 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin/)
+[![GitHub](https://img.shields.io/badge/GitHub-DenisGit6-lightgrey)](https://github.com/DenisGit6)
+
+
+![GitHub Badge](https://img.shields.io/badge/GitHub-DenisGit6-blue)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DenisGit6&show_icons=true)
