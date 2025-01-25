@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Denis
 
-![Denis GitReal-Time Embedded Software Engineer.png](Denis GitReal-Time Embedded Software Engineer.png)
+![HI](test.png)
 
 ## 🚀 About Me
 - 🌱 Currently transitioning to embedded software development.
