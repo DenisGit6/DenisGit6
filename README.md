@@ -19,7 +19,7 @@
 | [Project 1](#) | A cool project description here. |
 
 ## 🎨 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/denis-ivanilov-developer)
 [![GitHub](https://img.shields.io/badge/GitHub-DenisGit6-lightgrey)](https://github.com/DenisGit6)
 
 
