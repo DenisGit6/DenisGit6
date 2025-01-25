@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Denis
 
-![Banner](test.png)
+![Banner](test.png.png)
 
 
 ## 🚀 About Me
