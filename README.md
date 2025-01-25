@@ -21,6 +21,8 @@ Skilled in FreeRTOS, STM32, and AI-driven embedded systems.
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DenisGit6&show_icons=true)
 
+## ![Profile Views](https://komarev.com/ghpvc/?username=DenisGit6&color=blue)
+
 ## 🛠️ Skills
 - Embedded Systems, C, Python, Linux
 - Arduino, IoT, Real-Time Systems
