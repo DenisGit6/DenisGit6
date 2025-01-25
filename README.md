@@ -16,6 +16,8 @@ Designed advanced SLS printing technology, reducing production time for UAV comp
 Skilled in FreeRTOS, STM32, and AI-driven embedded systems.
 🚀 I'm excited about leveraging my skills to push the boundaries of embedded solutions and create impactful technology.
 
+## ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisGit6&layout=compact&theme=radical)
+
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DenisGit6&show_icons=true)
 
