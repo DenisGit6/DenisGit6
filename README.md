@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Denis
 
-![Welcome Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile)
+![Welcome Banner](Denis GitReal-Time Embedded Software Engineer.png)
 
 ## 🚀 About Me
 - 🌱 Currently transitioning to embedded software development.
