@@ -23,6 +23,10 @@ Skilled in FreeRTOS, STM32, and AI-driven embedded systems.
 
 ## ![Profile Views](https://komarev.com/ghpvc/?username=DenisGit6&color=blue)
 
+## ![C++](https://img.shields.io/badge/C++-Intermediate-blue)
+![Embedded Systems](https://img.shields.io/badge/Embedded-Expert-green)
+
+
 ## 🛠️ Skills
 - Embedded Systems, C, Python, Linux
 - Arduino, IoT, Real-Time Systems
