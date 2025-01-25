@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Denis
 
-![HI](test.png)
+![Banner](test.png)
+
 
 ## 🚀 About Me
 - 🌱 Currently transitioning to embedded software development.
